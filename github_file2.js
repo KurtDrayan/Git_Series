@@ -1,1 +1,1 @@
-#thisisasecondfile
+console.log('github 2 File');
